@@ -7,11 +7,17 @@ This all info is extracted from Symthoptic OSS and Ethan Software Industries
 - Based on: Hexactyl Z11
 - EOL: True
 
-# legacy@falacon 2024-07-03
+# legacy@falcon 2024-07-03
 - Codename: ???
 - Version: ???
 - Based on: FalconCore
 - EOL: True
+
+# legacy@graphene ????
+- Codename: ???
+- Version:15.0.0
+- Based on: HexactylPG
+- EOL: ???
 
 # legacy@spaceport 2024-08-01
 - Codename: ???
